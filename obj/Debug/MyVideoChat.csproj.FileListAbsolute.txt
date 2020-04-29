@@ -1,0 +1,17 @@
+C:\Users\home\Desktop\Labs\Второй Сем\Курсач\MyVideoChat\bin\Debug\MyVideoChat.exe.config
+C:\Users\home\Desktop\Labs\Второй Сем\Курсач\MyVideoChat\bin\Debug\MyVideoChat.exe
+C:\Users\home\Desktop\Labs\Второй Сем\Курсач\MyVideoChat\bin\Debug\MyVideoChat.pdb
+C:\Users\home\Desktop\Labs\Второй Сем\Курсач\MyVideoChat\bin\Debug\DirectX.Capture.dll
+C:\Users\home\Desktop\Labs\Второй Сем\Курсач\MyVideoChat\bin\Debug\DShowNET.dll
+C:\Users\home\Desktop\Labs\Второй Сем\Курсач\MyVideoChat\bin\Debug\DirectX.Capture.pdb
+C:\Users\home\Desktop\Labs\Второй Сем\Курсач\MyVideoChat\bin\Debug\DShowNET.pdb
+C:\Users\home\Desktop\Labs\Второй Сем\Курсач\MyVideoChat\obj\Debug\MyVideoChat.csprojAssemblyReference.cache
+C:\Users\home\Desktop\Labs\Второй Сем\Курсач\MyVideoChat\obj\Debug\MyVideoChat.Properties.Resources.resources
+C:\Users\home\Desktop\Labs\Второй Сем\Курсач\MyVideoChat\obj\Debug\MyVideoChat.csproj.GenerateResource.cache
+C:\Users\home\Desktop\Labs\Второй Сем\Курсач\MyVideoChat\obj\Debug\MyVideoChat.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Labs\Второй Сем\Курсач\MyVideoChat\obj\Debug\MyVideoChat.csproj.CopyComplete
+C:\Users\home\Desktop\Labs\Второй Сем\Курсач\MyVideoChat\obj\Debug\MyVideoChat.exe
+C:\Users\home\Desktop\Labs\Второй Сем\Курсач\MyVideoChat\obj\Debug\MyVideoChat.pdb
+C:\Users\home\Desktop\Labs\Второй Сем\Курсач\MyVideoChat\obj\Debug\MyVideoChat.Form1.resources
+C:\Users\home\Desktop\Labs\Второй Сем\Курсач\MyVideoChat\bin\Debug\NAudio.dll
+C:\Users\home\Desktop\Labs\Второй Сем\Курсач\MyVideoChat\bin\Debug\NAudio.xml
